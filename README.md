@@ -25,18 +25,16 @@ We utilize an extensive dataset from Zillow, covering April 1996 to April 2018. 
 - Languages & Libraries: Python, Pandas, NumPy, Matplotlib, Seaborn, Statsmodels.
 - Techniques: Time Series Analysis, ARIMA Modeling, Data Visualization.
 
+## Results & Interpretation
+- **Model Outputs**: In-depth results from ARIMA models for each zip code.
+- **Financial Crisis Impact**: Visual depiction of the real estate market's response to economic downturns, highlighting pivotal trends and recovery phases.
+
 ## Key Insights
 
 1. **Market Variability**: Distinct growth rates and risk profiles across various zip codes.
 2. **Model Precision**: Varied levels of forecasting accuracy; some zip codes offer more reliable predictions.
 3. **Investment Opportunities**: Identification of potential investment areas based on growth prospects and risk analysis.
-![features Chart](./visualizations/piechartwine.png)
 
-
-## Results & Interpretation
-- **Model Outputs**: In-depth results from ARIMA models for each zip code.
-- **Financial Crisis Impact**: Visual depiction of the real estate market's response to economic downturns, highlighting pivotal trends and recovery phases.
-  
 ## Recommendations
 Based on ARIMA model forecasts, the project suggests top zip codes for investment, balancing potential growth against associated risks.
    - Top 5 Zip Codes for Investment

@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project, conducted by Nancy Lopez on a self-paced schedule, aims to forecast the future trends of real estate prices across various zip codes in New York using advanced predictive analytics. The primary objective is to equip clients with strategic insights for informed investment decisions in the dynamic New York real estate market.
+This project, aims to forecast the future trends of real estate prices across various zip codes in New York using advanced predictive analytics. The primary objective is to equip clients with strategic insights for informed investment decisions in the dynamic New York real estate market.
 
 ## Business Problem
 

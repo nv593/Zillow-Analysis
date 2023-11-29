@@ -63,7 +63,8 @@ Based on ARIMA model forecasts, the project suggests top zip codes for investmen
    - **Risk**: Moderate (13.82% future risk).
        - A balanced option for investors seeking reasonable growth with manageable risk.
 
-### Risk-Growth Scatterplot: A visual correlation between predicted growth and associated risk for each zip code.
+#### Risk-Growth Scatterplot: 
+- A visual correlation between predicted growth and associated risk for each zip code.
 
 
 ## Next Steps

@@ -1,5 +1,5 @@
 # Real Estate Market Analysis in New York
-![Banner](./visualizations/banner.jpeg)
+![Banner](./visualizations/banner.png)
 ## Introduction
 
 This comprehensive project leverages advanced predictive analytics to forecast real estate price trends across New York's diverse zip codes. It aims to provide strategic insights for informed investment decisions in the dynamic New York real estate market.

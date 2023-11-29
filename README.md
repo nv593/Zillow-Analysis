@@ -30,6 +30,8 @@ We utilize an extensive dataset from Zillow, covering April 1996 to April 2018. 
 1. **Market Variability**: Distinct growth rates and risk profiles across various zip codes.
 2. **Model Precision**: Varied levels of forecasting accuracy; some zip codes offer more reliable predictions.
 3. **Investment Opportunities**: Identification of potential investment areas based on growth prospects and risk analysis.
+![features Chart](./visualizations/piechartwine.png)
+
 
 ## Results & Interpretation
 - **Model Outputs**: In-depth results from ARIMA models for each zip code.
@@ -65,6 +67,8 @@ Based on ARIMA model forecasts, the project suggests top zip codes for investmen
 
 #### Risk-Growth Scatterplot: 
 - A visual correlation between predicted growth and associated risk for each zip code.
+  ![](./visualizations/scatterplot.png)
+
 
 
 ## Next Steps

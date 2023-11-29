@@ -14,12 +14,12 @@ We utilize an extensive dataset from Zillow, covering April 1996 to April 2018. 
 
 ## Project Approach
 
-1. **Data Preparation & Cleaning**: Standardizing data formats and handling missing data for accurate analysis.
-2. **Exploratory Data Analysis (EDA)**: Investigating underlying trends and characteristics of the New York real estate market.
-3. **Stationarity Testing & Data Transformation**: Applying statistical tests and transformations to prepare data for time series modeling.
-4. **Model Development & Forecasting**: Building ARIMA models for each zip code to forecast future real estate prices and evaluating model performance.
-5. **Risk Analysis and Cross-Validation**: Implementing strategies to enhance model reliability and integrate risk metrics.
-
+1. **Data Preparation & Cleaning**: A meticulous process of standardizing formats and meticulously addressing missing or inconsistent data to ensure the integrity and reliability of the analysis.
+2. **Exploratory Data Analysis (EDA)**: A deep dive into the data, unraveling underlying trends, anomalies, and characteristic patterns within the New York real estate market. This phase involves sophisticated data visualization techniques to bring forth hidden insights.
+3. **Stationarity Testing & Data Transformation**: Leveraging advanced statistical tests, like the Dickey-Fuller test, to check the stationarity of the data. This step is critical in ensuring the suitability of the data for time series modeling and involves necessary transformations to stabilize variance and mean.
+4. **Predictive Modeling & Forecasting**: Constructing ARIMA models for each zip code. This phase involves fine-tuning the models to optimize forecast accuracy and evaluate performance using robust metrics like RMSE (Root Mean Square Error).
+5. **Risk Analysis & Model Validation**: Implementing robust cross-validation techniques to ensure the reliability of the models. This phase also integrates comprehensive risk assessment metrics to evaluate the potential financial exposure in each zip code.
+   
 ## Technical Aspects
 
 - Languages & Libraries: Python, Pandas, NumPy, Matplotlib, Seaborn, Statsmodels.
@@ -71,5 +71,5 @@ Based on ARIMA model forecasts, the project suggests top zip codes for investmen
 Suggests deeper analysis into local market trends, historical real estate performance, and broader economic factors to refine investment strategies.
 
 ## Conclusion
-The project, with its comprehensive approach and detailed analysis, offers valuable insights into the New York real estate market, guiding investors towards informed decisions that align with their investment goals and risk tolerance.
+In conclusion, this project, with its holistic approach and detailed analytics, sheds light on the complex tapestry of New York's real estate market. It guides investors through a labyrinth of data, leading them towards informed decisions that resonate with their investment objectives and risk tolerance. This endeavor stands as a testament to the power of data-driven insights in demystifying the real estate investment landscape.
 

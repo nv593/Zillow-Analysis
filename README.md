@@ -25,15 +25,15 @@ We utilize an extensive dataset from Zillow, covering April 1996 to April 2018. 
 - Languages & Libraries: Python, Pandas, NumPy, Matplotlib, Seaborn, Statsmodels.
 - Techniques: Time Series Analysis, ARIMA Modeling, Data Visualization.
 
-## Key Findings
+## Key Insights
 
-1. **Variable Market Dynamics**: Different zip codes exhibit varying growth rates and risk profiles.
-2. **Forecasting Accuracy**: Models show differing levels of predictive accuracy, with some zip codes presenting more reliable forecasts than others.
-3. **Investment Insights**: The analysis identifies potential investment hotspots based on growth and risk projections.
+1. **Market Variability**: Distinct growth rates and risk profiles across various zip codes.
+2. **Model Precision**: Varied levels of forecasting accuracy; some zip codes offer more reliable predictions.
+3. **Investment Opportunities**: Identification of potential investment areas based on growth prospects and risk analysis.
 
-## Results & Visualizations
-- **ARIMA Model Results**: Detailed results from the ARIMA models, showcasing the predictive accuracy for each zip code.
-- **Visualizing the Financial Crisis**: A graphical representation of how the real estate market responded to the economic downturn, highlighting key trends and recoveries.
+## Results & Interpretation
+- **Model Outputs**: In-depth results from ARIMA models for each zip code.
+- **Financial Crisis Impact**: Visual depiction of the real estate market's response to economic downturns, highlighting pivotal trends and recovery phases.
   
 ## Recommendations
 Based on ARIMA model forecasts, the project suggests top zip codes for investment, balancing potential growth against associated risks.
@@ -62,8 +62,8 @@ Based on ARIMA model forecasts, the project suggests top zip codes for investmen
    - **Profitability**: Moderate growth (6.61% growth percentage).
    - **Risk**: Moderate (13.82% future risk).
        - A balanced option for investors seeking reasonable growth with manageable risk.
-   
-   - **Scatterplot Visualization**: A graphical representation that plots the predicted growth against the associated risk for each ZIP code, providing a clear visual comparison.
+
+### Risk-Growth Scatterplot: A visual correlation between predicted growth and associated risk for each zip code.
 
 
 ## Next Steps
@@ -71,3 +71,4 @@ Suggests deeper analysis into local market trends, historical real estate perfor
 
 ## Conclusion
 The project, with its comprehensive approach and detailed analysis, offers valuable insights into the New York real estate market, guiding investors towards informed decisions that align with their investment goals and risk tolerance.
+

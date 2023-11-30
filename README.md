@@ -77,3 +77,14 @@ Suggests deeper analysis into local market trends, historical real estate perfor
 ## Conclusion
 In conclusion, this project, with its holistic approach and detailed analytics, sheds light on the complex tapestry of New York's real estate market. It guides investors through a labyrinth of data, leading them towards informed decisions that resonate with their investment objectives and risk tolerance. This endeavor stands as a testament to the power of data-driven insights in demystifying the real estate investment landscape.
 
+For a more detailed and technical explanation of the project, please refer to the full project report.
+Please view full analysis in [Jupyter Notebook](https://github.com/nv593/Zillow-Analysis/blob/master/ny_analysis.ipynb) or [Presentation](https://github.com/nv593/Zillow-Analysis/blob/master/NY%20Analysis%20Slides.pdf)
+
+### Repository Structure
+
+```
+├── visulizations
+├── NY Analysis Slides.pdf
+├── README.md
+├── ny_analysis.ipynb
+├── zillow_data.csv

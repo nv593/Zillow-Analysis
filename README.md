@@ -34,32 +34,33 @@ We utilize an extensive dataset from Zillow, covering April 1996 to April 2018. 
 
 ## Recommendations
 Based on ARIMA model forecasts, the project suggests top zip codes for investment based on balancing potential growth against associated risks.
-   - Top 5 Zip Codes for Investment 
-**11231**
+   - Top 5 Zip Codes for Investment
+     
+1. **11231**
    - **Profitability**: Strong growth (8.01% growth percentage).
    - **Risk**: Low (3.61% future risk).
        - Ideal for those seeking growth with low risk.
      ![fe](./visualizations/zipcode_2.png)
 
-**11211**
+2. **11211**
    - **Profitability**: Significant growth (9.0% growth percentage).
    - **Risk**: Moderate (8.52% future risk).
        - Balanced choice for growth-focused investors.
 ![](./visualizations/zipcode_1.png)
 
-**11930**
+3. **11930**
    - **Profitability**: Good growth (5.55% growth percentage).
    - **Risk**: Moderate (5.25% future risk).
        - Suitable for medium-term investment strategies.
 ![](./visualizations/zipcode_4.png)
 
-**11215**
+4. **11215**
    - **Profitability**: Stable, albeit low growth (0.02% growth percentage).
    - **Risk**: Low (4.84% future risk).
        - A conservative option for risk-averse investors.
 ![](./visualizations/zipcode_5.png)
 
-**14201**
+5. **14201**
    - **Profitability**: Moderate growth (6.61% growth percentage).
    - **Risk**: Moderate (13.82% future risk).
        - A balanced option for investors seeking reasonable growth with manageable risk.

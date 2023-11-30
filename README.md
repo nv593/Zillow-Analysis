@@ -34,7 +34,7 @@ We utilize an extensive dataset from Zillow, covering April 1996 to April 2018. 
 
 ## Recommendations
 Based on ARIMA model forecasts, the project suggests top zip codes for investment based on balancing potential growth against associated risks.
-   - Top 5 Zip Codes for Investment
+- Top 5 Zip Codes for Investment
      
 1. **11231**
    - **Profitability**: Strong growth (8.01% growth percentage).
